@@ -1,0 +1,9 @@
+# Compiled C binaries
+calculator
+calculator.exe
+*.o
+*.out
+
+# IDE settings
+.vscode/
+.idea/
